@@ -11,6 +11,10 @@ const generatecomputerGuess = () => {
 }
 
 const compareGuesses = (humanGuess, computerGuess, targetNum) => {
+  if ((humanGuess < 0) || (humanGuess > 9)) {
+    console.log('Invalid number. Please guess a number between 0 and 9.');
+    return;
+  }
   const humanGap = Math.abs(targetNum - humanGuess);
   const computerGap = Math.abs(targetNum - computerGuess);
   if (humanGap <= computerGap) {
@@ -45,7 +49,7 @@ const playGame = () => {
   advanceRound();
 }
 
-const humanGuess = 3;
+const humanGuess = 11;
 playGame();
 
 console.log(`Human Score: ${humanScore}.`);
