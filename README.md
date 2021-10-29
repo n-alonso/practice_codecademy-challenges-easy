@@ -5,4 +5,4 @@ All files in this repository are practice tasks proposed in the afore mentioned 
 List of tasks:
  1. Rock, paper, scissors game in _Vanilla JavaScript_.
  2. Number Guesser game in _Vanilla JavaScript_.
- 3. Random Meal Generator in _Vainlla JavaScript_.
+ 3. Objects 1 - Random Meal Generator in _Vainlla JavaScript_.
