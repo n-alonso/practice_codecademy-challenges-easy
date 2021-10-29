@@ -6,3 +6,4 @@ List of tasks:
  1. Rock, paper, scissors game in _Vanilla JavaScript_.
  2. Number Guesser game in _Vanilla JavaScript_.
  3. Objects 1 - Random Meal Generator in _Vainlla JavaScript_.
+ 4. Objects 2 - Team's Data Structure in _Vanilla JavaScript_.
