@@ -1,4 +1,4 @@
-## Front-End Developer Career Path in www.codeacademy.com
+## Front-End Developer Career Path in www.codecademy.com
 
 All files in this repository are practice tasks proposed in the afore mentioned Career Path from CodeAcademy.
 All projects in this repository are done in _Vanilla JavaScript_.
