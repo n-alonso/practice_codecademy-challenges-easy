@@ -1,8 +1,7 @@
 ## Front-End Developer Career Path in www.codecademy.com
 
-All files in this repository are practice tasks proposed in the afore mentioned Career Path from CodeAcademy.
-All projects in this repository are done in _Vanilla JavaScript_.
-
+All files in this repository are practice challenges from the JavaScript Challenges, easy/beginner part.
+They are all focused on _Vanilla JavaScript_.
 List of tasks:
  1. Rock, paper, scissors game
  2. Number Guesser game
